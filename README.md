@@ -17,6 +17,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building impactful t
 ---
 
 ## 🚀 Projects
+- **My Portfolio**: A dynamic website to present skills, projects, and testimonials with MERN stack.  
 - **Finora**: A secure, real-time MERN stack stock trading platform with live portfolio tracking and trade board.  
 - **HomyGo**: MERN-based booking platform for property listings with real-time reservation and authentication system.  
 - **Emotica**: Multilingual emotion detection using NLP and machine learning (TensorFlow, NLTK).  
@@ -39,6 +40,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building impactful t
 ---
 
 ## 📫 Let's Connect
+- 🔗 [portfolio](https://portfolio-frontend-jwq5.onrender.com/) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ansh-mani-tripathi-58a3b3288)  
 - 💻 [GitHub](https://github.com/anshmanitripathi)  
 
